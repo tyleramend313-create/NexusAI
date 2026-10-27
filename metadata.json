@@ -1,0 +1,6 @@
+{
+  "name": "NexusAI - Advanced Conversational Assistant",
+  "description": "High-performance LLM chatbot powered by Gemini 3.8 featuring real-time streaming, multimodal image analysis, Google Search grounding, audio synthesis, and chat session management.",
+  "requestFramePermissions": ["clipboard-write", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
